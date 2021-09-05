@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/pokedex/static/css/main.540eea7d.chunk.css",
-    "main.js": "/pokedex/static/js/main.4520db04.chunk.js",
-    "main.js.map": "/pokedex/static/js/main.4520db04.chunk.js.map",
-    "runtime-main.js": "/pokedex/static/js/runtime-main.1c041484.js",
-    "runtime-main.js.map": "/pokedex/static/js/runtime-main.1c041484.js.map",
-    "static/js/2.940a2ce9.chunk.js": "/pokedex/static/js/2.940a2ce9.chunk.js",
-    "static/js/2.940a2ce9.chunk.js.map": "/pokedex/static/js/2.940a2ce9.chunk.js.map",
-    "static/js/3.d6b8dfa5.chunk.js": "/pokedex/static/js/3.d6b8dfa5.chunk.js",
-    "static/js/3.d6b8dfa5.chunk.js.map": "/pokedex/static/js/3.d6b8dfa5.chunk.js.map",
-    "index.html": "/pokedex/index.html",
-    "static/css/main.540eea7d.chunk.css.map": "/pokedex/static/css/main.540eea7d.chunk.css.map",
-    "static/js/2.940a2ce9.chunk.js.LICENSE.txt": "/pokedex/static/js/2.940a2ce9.chunk.js.LICENSE.txt",
-    "static/media/arrow.e9f077ad.png": "/pokedex/static/media/arrow.e9f077ad.png"
+    "main.css": "/Pokedex/static/css/main.540eea7d.chunk.css",
+    "main.js": "/Pokedex/static/js/main.4520db04.chunk.js",
+    "main.js.map": "/Pokedex/static/js/main.4520db04.chunk.js.map",
+    "runtime-main.js": "/Pokedex/static/js/runtime-main.2056b8de.js",
+    "runtime-main.js.map": "/Pokedex/static/js/runtime-main.2056b8de.js.map",
+    "static/js/2.940a2ce9.chunk.js": "/Pokedex/static/js/2.940a2ce9.chunk.js",
+    "static/js/2.940a2ce9.chunk.js.map": "/Pokedex/static/js/2.940a2ce9.chunk.js.map",
+    "static/js/3.d6b8dfa5.chunk.js": "/Pokedex/static/js/3.d6b8dfa5.chunk.js",
+    "static/js/3.d6b8dfa5.chunk.js.map": "/Pokedex/static/js/3.d6b8dfa5.chunk.js.map",
+    "index.html": "/Pokedex/index.html",
+    "static/css/main.540eea7d.chunk.css.map": "/Pokedex/static/css/main.540eea7d.chunk.css.map",
+    "static/js/2.940a2ce9.chunk.js.LICENSE.txt": "/Pokedex/static/js/2.940a2ce9.chunk.js.LICENSE.txt",
+    "static/media/arrow.e9f077ad.png": "/Pokedex/static/media/arrow.e9f077ad.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c041484.js",
+    "static/js/runtime-main.2056b8de.js",
     "static/js/2.940a2ce9.chunk.js",
     "static/css/main.540eea7d.chunk.css",
     "static/js/main.4520db04.chunk.js"
