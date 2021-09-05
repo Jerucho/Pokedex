@@ -15,16 +15,6 @@ const Footer = () => {
         <h3>Jeremias Amador</h3>
         <div className="icons">
           <Icons
-            type={faInstagram}
-            className="icons__icon"
-            url="https://instagram.com"
-          />
-          <Icons
-            type={faTwitter}
-            className="icons__icon"
-            url="https://twitter.com"
-          />
-          <Icons
             type={faLinkedin}
             className="icons__icon"
             url="https://linkedin.com"

@@ -10,6 +10,7 @@ class App extends Component {
       <Router>
         <Switch>
           <Route exact path="/" component={Home} />
+          <Route exact path="/Pokedex/" component={Home} />
           <Route exact path="/info" component={Info} />
           <Route exact path="/pokemon-stats" component={PokemonStats} />
           <Route component={NotFound} />
