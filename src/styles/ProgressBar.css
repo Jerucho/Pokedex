@@ -1,0 +1,27 @@
+.progress__h2 {
+  text-align: left;
+}
+#progressbar {
+  background-color: black;
+  border-radius: 13px;
+  /* (height of inner div) / 2 + padding */
+  margin: 20px 0;
+  padding: 3px;
+  text-align: center;
+}
+
+#progressbar > div {
+  background-color: var(--pokeball-light-red);
+  font-weight: bold;
+  padding: 5px 0;
+  /* width: 20%; */
+  /* Adjust with JavaScript */
+  height: 30px;
+  border-radius: 10px;
+}
+
+@media screen and (max-width: 320px) {
+  #progressbar {
+    font-size: 15px;
+  }
+}

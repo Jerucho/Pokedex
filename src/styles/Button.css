@@ -1,0 +1,25 @@
+.container__button {
+  background: var(--light-blue);
+  border: none;
+  height: 40px;
+  width: 20%;
+  border-radius: 20px;
+  color: var(--white);
+  font-weight: bold;
+  outline: none;
+  text-decoration: none;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 2.5;
+}
+.container__button:hover {
+  background: var(--pokeball-light-red);
+  transition: 800ms linear;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 320px) {
+  .container__button {
+    width: 80%;
+  }
+}

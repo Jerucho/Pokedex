@@ -1,0 +1,9 @@
+.spin {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.spin__img {
+  height: 200px;
+  width: 200px;
+}

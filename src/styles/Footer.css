@@ -1,0 +1,11 @@
+.icons {
+  display: flex;
+  gap: 50px;
+}
+.icons__icon {
+  font-size: 20px;
+}
+
+.icons__a {
+  text-decoration: none;
+}

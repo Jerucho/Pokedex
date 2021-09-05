@@ -1,0 +1,21 @@
+.container__input {
+  transition: 800ms linear;
+  padding: 10px;
+  margin: 30px 0;
+  height: 40px;
+  width: 40%;
+  border-radius: 20px;
+  border: none;
+  text-align: center;
+  -webkit-box-shadow: 2px 11px 29px -1px rgba(0, 0, 0, 0.58);
+  box-shadow: 2px 11px 29px -1px rgba(0, 0, 0, 0.58);
+  background: var(--dark-blue);
+  color: var(--white);
+  outline: none;
+}
+
+@media screen and (max-width: 320px) {
+  .container__input {
+    width: 80%;
+  }
+}

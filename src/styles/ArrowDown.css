@@ -1,0 +1,13 @@
+.arrow-down {
+  display: flex;
+  margin: 30vh 0 0 0;
+  justify-content: center;
+  height: 100%;
+}
+
+.arrow-down__img {
+  height: 30px;
+  width: 50px;
+  text-align: center;
+  color: #fff;
+}

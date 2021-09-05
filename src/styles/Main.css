@@ -1,0 +1,53 @@
+/* Home */
+@import url(Home.css);
+@import url(SearchBar.css);
+@import url(Button.css);
+@import url(PokemonInfo.css);
+@import url(Spin.css);
+@import url(ProgressBar.css);
+@import url(ArrowDown.css);
+@import url(Footer.css);
+/* ----- */
+/* Root */
+:root {
+  --pokeball-light-red: #ee1515;
+  --pokeball-strong-red: #f00000;
+  --white: #f0f0f0;
+  --black: #222224;
+  --dark-blue: #0a285f;
+  --light-blue: #0075be;
+  --golden: #d5a100;
+  --light-yellow: #ffcc00;
+}
+
+/* ----- */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: sans-serif;
+  background: var(--dark-blue);
+  color: var(--white);
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: var(--white);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: var(--pokeball-strong-red);
+}
